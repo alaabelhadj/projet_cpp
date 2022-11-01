@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>brainstorm.png</file>
+        <file>chat-solid.svg</file>
+        <file>like-solid.svg</file>
+    </qresource>
+</RCC>
